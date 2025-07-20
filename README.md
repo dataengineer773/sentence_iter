@@ -1,0 +1,1 @@
+the Sentence class is iterable because it implements the __iter__ special method, which builds and return a SentenceIterator, we have implement sentence_iter, Sentence implemented using the Iterator pattern.
